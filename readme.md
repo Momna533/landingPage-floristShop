@@ -55,7 +55,7 @@ W3Forms – form submission handling
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/florist-demo.git
+git clone https://github.com/Momna533/landingPage-floristShop
 Navigate into the project folder:
 
 bash
